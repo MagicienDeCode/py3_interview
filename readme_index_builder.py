@@ -11,12 +11,12 @@ xiguaid = "7335974016466813492"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 
-var1 = "|["+title+"]("+title_link+")"+"|"
-var2 = "|["+todo+"]("+todo_link+")"+"|"
-var3 = "|["+title+"]("+title_link+")"+"|"
-var4 = "|"+answer+"|"
-var5 = "|[Youtube]("+youtube+")"+"|"
-var6 = "|[Bilibili]("+bilibili+")"+"|"
+var1 = "|["+title+"]("+title_link+")"
+var2 = "|["+todo+"]("+todo_link+")"
+var3 = "|["+title+"]("+title_link+")"
+var4 = "|"+answer
+var5 = "|[Youtube]("+youtube+")"
+var6 = "|[Bilibili]("+bilibili+")"
 var7 = "|[Xigua]("+xigua+")"+"|"
 
 print(var1+var2+var3+var4+var5+var6+var7)
