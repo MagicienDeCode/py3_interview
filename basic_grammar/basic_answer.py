@@ -9,7 +9,7 @@ multi lines comment example
 
 # declare a variable named x, assign int value 1
 x = 1
-# declare a variable named y, assign int value 1.5
+# declare a variable named y, assign float value 1.5
 y=1.5
 # print result of x+y
 print(x+y)
