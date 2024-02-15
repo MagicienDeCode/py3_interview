@@ -13,8 +13,8 @@ xigua = "https://www.ixigua.com/i" + xiguaid
 
 var1 = "|["+title+"]("+title_link+")"
 var2 = "|["+todo+"]("+todo_link+")"
-var3 = "|["+title+"]("+title_link+")"
-var4 = "|"+answer
+var3 = "|["+answer+"]("+answer_link+")"
+var4 = "|"+difficulty
 var5 = "|[Youtube]("+youtube+")"
 var6 = "|[Bilibili]("+bilibili+")"
 var7 = "|[Xigua]("+xigua+")"+"|"
