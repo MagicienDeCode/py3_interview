@@ -9,4 +9,5 @@
 | # | Title | Todo | Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[Python3 Basic Grammar 0001]()|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/basic.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/basic_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=Pmlqcl_Ggkc)|[Bilibili](https://www.bilibili.com/video/BV1wN4y1H7hR)|[Xigua](https://www.ixigua.com/i7335974016466813492)|
+|2|[Python3 List 0002]()|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=veHJaKzCsIM)|[Bilibili](https://www.bilibili.com/video/BV1WZ421m778)|[Xigua](https://www.ixigua.com/i7335998126400274979)|
 
