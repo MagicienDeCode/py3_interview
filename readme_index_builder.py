@@ -1,16 +1,16 @@
-count = 2
-title = "Python3 List 0002"
+count = 3
+title = "1. Two Sum"
 title_link = ""
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/two_sum.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/two_sum_answer.py"
 difficulty = "Easy"
-youtubeid = "veHJaKzCsIM"
+youtubeid = "BmOdXfdeG-o"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1WZ421m778"
+biid = "BV1Ny421a7nP"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7335998126400274979"
+xiguaid = "7336100737191477786"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
