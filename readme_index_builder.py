@@ -6,11 +6,11 @@ todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_g
 answer = "Answer"
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/set_answer.py"
 difficulty = "Easy"
-youtubeid = "uvgBSPHqeCI"
+youtubeid = "L-GdKH3JtNw"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1Z1421f7d9"
+biid = "BV1nK421k7zn"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7336695129979224628"
+xiguaid = "7336707631496561190"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
