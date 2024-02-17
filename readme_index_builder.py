@@ -1,10 +1,10 @@
-count = 3
-title = "1. Two Sum"
+count = 4
+title = "Python3 Dictionary 0004"
 title_link = ""
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/two_sum.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/two_sum_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary_answer.py"
 difficulty = "Easy"
 youtubeid = "BmOdXfdeG-o"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
