@@ -1,10 +1,10 @@
-count = 4
-title = "Python3 Dictionary 0004"
-title_link = "https://leetcode.com/problems/two-sum/description/"
+count = 5
+title = "Python3 Set 0005"
+title_link = "https://leetcode.com/problems/contains-duplicate/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/set.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/set_answer.py"
 difficulty = "Easy"
 youtubeid = "uvgBSPHqeCI"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
