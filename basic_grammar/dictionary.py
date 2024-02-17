@@ -34,7 +34,7 @@ print(dic)
 
 
 # clear all key-value pairs from the dictionary
-dic.clear()
+
 print(dic)
 
 

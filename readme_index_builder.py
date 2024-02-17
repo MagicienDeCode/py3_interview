@@ -1,16 +1,16 @@
 count = 4
 title = "Python3 Dictionary 0004"
-title_link = ""
+title_link = "https://leetcode.com/problems/two-sum/description/"
 todo = "Todo File"
 todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary.py"
 answer = "Answer"
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/dictionary_answer.py"
 difficulty = "Easy"
-youtubeid = "BmOdXfdeG-o"
+youtubeid = "uvgBSPHqeCI"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1Ny421a7nP"
+biid = "BV1Z1421f7d9"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7336100737191477786"
+xiguaid = "7336695129979224628"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
