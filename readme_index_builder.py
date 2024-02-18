@@ -1,16 +1,16 @@
-count = 5
-title = "Python3 Set 0005"
-title_link = "https://leetcode.com/problems/contains-duplicate/description/"
+count = 6
+title = "242. Valid Anagram 0006"
+title_link = "https://leetcode.com/problems/valid-anagram/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/set.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242. Valid Anagram.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/set_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242. Valid Anagram_answer.py"
 difficulty = "Easy"
-youtubeid = "L-GdKH3JtNw"
+youtubeid = "r9SZajvQIiI"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1nK421k7zn"
+biid = "BV1Xt42187TX"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7336707631496561190"
+xiguaid = "7337081461045985811"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
