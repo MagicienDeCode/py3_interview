@@ -2,9 +2,9 @@ count = 6
 title = "242. Valid Anagram 0006"
 title_link = "https://leetcode.com/problems/valid-anagram/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242. Valid Anagram.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242valid_anagram.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242. Valid Anagram_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242valid_anagram_answer.py"
 difficulty = "Easy"
 youtubeid = "r9SZajvQIiI"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
