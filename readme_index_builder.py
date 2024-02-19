@@ -1,16 +1,16 @@
-count = 6
-title = "242. Valid Anagram 0006"
-title_link = "https://leetcode.com/problems/valid-anagram/description/"
+count = 7
+title = "49. Group Anagrams 0007"
+title_link = "https://leetcode.com/problems/group-anagrams/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242valid_anagram.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/49group_anagrams.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/242valid_anagram_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/49group_anagrams_answer.py"
 difficulty = "Easy"
-youtubeid = "r9SZajvQIiI"
+youtubeid = "-7WpUpmp6N4"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1Xt42187TX"
+biid = "BV1Qj421D7RD"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7337081461045985811"
+xiguaid = "7337102157625328179"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
