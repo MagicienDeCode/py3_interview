@@ -1,16 +1,16 @@
-count = 7
-title = "49. Group Anagrams 0007"
-title_link = "https://leetcode.com/problems/group-anagrams/description/"
+count = 8
+title = "347. Top K Frequent Elements 0008"
+title_link = "https://leetcode.com/problems/top-k-frequent-elements/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/49group_anagrams.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/347top_k_frequent_elements.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/49group_anagrams_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/347top_k_frequent_elements_answer.py"
 difficulty = "Easy"
-youtubeid = "-7WpUpmp6N4"
+youtubeid = "cuLdM1k7gBU"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1Qj421D7RD"
+biid = "BV18J4m1s7Pi"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7337102157625328179"
+xiguaid = "7337801325943620137"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
