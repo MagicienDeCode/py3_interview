@@ -1,16 +1,16 @@
-count = 8
-title = "347. Top K Frequent Elements 0008"
-title_link = "https://leetcode.com/problems/top-k-frequent-elements/description/"
+count = 9
+title = "238. Product of Array Except Self 0009"
+title_link = "https://leetcode.com/problems/product-of-array-except-self/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/347top_k_frequent_elements.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/238product_of_array_except_self.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/347top_k_frequent_elements_answer.py"
-difficulty = "Easy"
-youtubeid = "cuLdM1k7gBU"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/238product_of_array_except_self_answer.py"
+difficulty = "Medium"
+youtubeid = "KoFS5Ef4hXk"
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV18J4m1s7Pi"
+biid = "BV1kx4y1y7i9"
 bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7337801325943620137"
+xiguaid = "7338189112328847912"
 xigua = "https://www.ixigua.com/i" + xiguaid
 
 var0 = "|"+str(count)
