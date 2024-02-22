@@ -1,17 +1,32 @@
-count = 9
-title = "238. Product of Array Except Self 0009"
-title_link = "https://leetcode.com/problems/product-of-array-except-self/description/"
 todo = "Todo File"
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/238product_of_array_except_self.py"
 answer = "Answer"
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/238product_of_array_except_self_answer.py"
+
+
+
+
 difficulty = "Medium"
-youtubeid = "KoFS5Ef4hXk"
+
+count = 10
+
+title = "36. Valid Sudoku 0010"
+
+title_link = "https://leetcode.com/problems/valid-sudoku/description/"
+
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku.py"
+
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku_answer.py"
+
+youtubeid = "eIzb4N1SYYE"
+
+biid = "BV1Bx4y1y7fX"
+
+xiguaid = "7338557475588669964"
+
+
+
 youtube = "https://www.youtube.com/watch?v="+youtubeid
-biid = "BV1kx4y1y7i9"
-bilibili = "https://www.bilibili.com/video/"+biid
-xiguaid = "7338189112328847912"
 xigua = "https://www.ixigua.com/i" + xiguaid
+bilibili = "https://www.bilibili.com/video/"+biid
 
 var0 = "|"+str(count)
 var1 = "|["+title+"]("+title_link+")"
