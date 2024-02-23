@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 10
+count = 11
 
-title = "36. Valid Sudoku 0010"
+title = "128. Longest Consecutive Sequence 0011"
 
-title_link = "https://leetcode.com/problems/valid-sudoku/description/"
+title_link = "https://leetcode.com/problems/longest-consecutive-sequence/description/"
 
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence_answer.py"
 
-youtubeid = "eIzb4N1SYYE"
+youtubeid = "IwSGuK82hkg"
 
-biid = "BV1Bx4y1y7fX"
+biid = "BV1gC411x7Wg"
 
-xiguaid = "7338557475588669964"
+xiguaid = "7338930904477696531"
 
 
 
