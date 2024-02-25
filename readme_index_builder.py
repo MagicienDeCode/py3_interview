@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "Medium"
+difficulty = "--"
 
-count = 11
+count = 12
 
-title = "128. Longest Consecutive Sequence 0011"
+title = "Python3 Review1 0012"
 
 title_link = "https://leetcode.com/problems/longest-consecutive-sequence/description/"
 
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1_answer.py"
 
-youtubeid = "IwSGuK82hkg"
+youtubeid = "uhtb_AChMac"
 
-biid = "BV1gC411x7Wg"
+biid = "BV1RW421A7c5"
 
-xiguaid = "7338930904477696531"
+xiguaid = "7339609071881814579"
 
 
 
