@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "--"
+difficulty = "Easy"
 
-count = 12
+count = 13
 
-title = "Python3 Review1 0012"
+title = "Binary Search py3 0013"
 
-title_link = "https://leetcode.com/problems/longest-consecutive-sequence/description/"
+title_link = "https://leetcode.com/problems/binary-search/"
 
-todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1.py"
+todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1_answer.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search_answer.py"
 
-youtubeid = "uhtb_AChMac"
+youtubeid = "hfNgTzJ3mdc"
 
-biid = "BV1RW421A7c5"
+biid = "BV1h1421f7E9"
 
-xiguaid = "7339609071881814579"
+xiguaid = "7340026021544100389"
 
 
 
