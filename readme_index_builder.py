@@ -6,9 +6,9 @@ answer = "Answer"
 
 difficulty = "Easy"
 
-count = 14
+count = 15
 
-title = "Binary Search 35 74 0014"
+title = "Binary Search 240 852 0015"
 
 title_link = "https://leetcode.com/problems/search-insert-position/"
 
@@ -16,11 +16,11 @@ title_link = "https://leetcode.com/problems/search-insert-position/"
 
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/35_74.py"
 
-youtubeid = "926x36m2fJ8"
+youtubeid = "GXwpMpFMgvA"
 
-biid = "BV1kC411H77i"
+biid = "BV1Cy421q73R"
 
-xiguaid = "7340410204619702819"
+xiguaid = "7340759814273925684"
 
 
 
@@ -38,3 +38,4 @@ var6 = "|[Bilibili]("+bilibili+")"
 var7 = "|[Xigua]("+xigua+")"+"|"
 
 print(var0+var1+var3+var4+var5+var6+var7)
+
