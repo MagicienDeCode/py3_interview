@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Easy"
 
-count = 15
+count = 16
 
-title = "Binary Search 240 852 0015"
+title = "Binary Search 34 278 0016"
 
-title_link = "https://leetcode.com/problems/search-insert-position/"
+title_link = "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search.py"
 
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/35_74.py"
 
-youtubeid = "GXwpMpFMgvA"
+youtubeid = "m63jLfjDsWM"
 
-biid = "BV1Cy421q73R"
+biid = "BV11z421X716"
 
-xiguaid = "7340759814273925684"
+xiguaid = "7341159431968653865"
 
 
 
