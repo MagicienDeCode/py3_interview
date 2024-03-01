@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "Easy"
+difficulty = "Medium"
 
-count = 16
+count = 17
 
-title = "Binary Search 34 278 0016"
+title = "Binary Search 153 33 0017"
 
-title_link = "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+title_link = "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/35_74.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/153_33.py"
 
-youtubeid = "m63jLfjDsWM"
+youtubeid = "2z-KIDh-j90"
 
-biid = "BV11z421X716"
+biid = "BV1Pz42197sv"
 
-xiguaid = "7341159431968653865"
+xiguaid = "7341541571524821530"
 
 
 
