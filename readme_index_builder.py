@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 17
+count = 18
 
-title = "Binary Search 153 33 0017"
+title = "875. Koko Eating Bananas 0018"
 
-title_link = "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+title_link = "https://leetcode.com/problems/koko-eating-bananas/"
 
-#todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search.py"
+#todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/153_33.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-youtubeid = "2z-KIDh-j90"
+youtubeid = "3ilYPxP9XqM"
 
-biid = "BV1Pz42197sv"
+biid = "BV1SC411p7q6"
 
-xiguaid = "7341541571524821530"
+xiguaid = "7342615931962524200"
 
 
 
