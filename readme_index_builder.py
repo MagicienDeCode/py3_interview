@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 18
+count = 19
 
-title = "875. Koko Eating Bananas 0018"
+title = "378. Kth Smallest 0019"
 
-title_link = "https://leetcode.com/problems/koko-eating-bananas/"
+title_link = "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/378.py"
 
-youtubeid = "3ilYPxP9XqM"
+youtubeid = "ah2QIC6DkgA"
 
-biid = "BV1SC411p7q6"
+biid = "BV1Gt421t7X6"
 
-xiguaid = "7342615931962524200"
+xiguaid = "7343038976959840803"
 
 
 
