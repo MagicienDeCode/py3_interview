@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 19
+count = 20
 
-title = "378. Kth Smallest 0019"
+title = "668. Kth Smallest 0020"
 
-title_link = "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/"
+title_link = "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/378.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/668.py"
 
-youtubeid = "ah2QIC6DkgA"
+youtubeid = "5DYgSTXSNK0"
 
-biid = "BV1Gt421t7X6"
+biid = "BV1sx42127tU"
 
-xiguaid = "7343038976959840803"
+xiguaid = "7343389869911540224"
 
 
 
