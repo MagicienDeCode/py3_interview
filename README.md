@@ -38,6 +38,6 @@
 ## Stack
 | # | Title | Todo | Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|21|[python3 Stack 0021](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=iao5oGnNNH4)|[Bilibili](https://www.bilibili.com/video/BV1bF4m1V7vP)|[Xigua](https://www.ixigua.com/i7344138174903353908)|
+|21|python3 Stack 0021|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=iao5oGnNNH4)|[Bilibili](https://www.bilibili.com/video/BV1bF4m1V7vP)|[Xigua](https://www.ixigua.com/i7344138174903353908)|
 
 
