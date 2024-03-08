@@ -34,3 +34,8 @@
 |18|[875. Koko 0018](https://leetcode.com/problems/koko-eating-bananas/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py)|Medium|[Youtube](https://www.youtube.com/watch?v=3ilYPxP9XqM)|[Bilibili](https://www.bilibili.com/video/BV1SC411p7q6)|[Xigua](https://www.ixigua.com/i7342615931962524200)|
 |19|[378. Kth Smallest 0019](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/378.py)|Medium|[Youtube](https://www.youtube.com/watch?v=ah2QIC6DkgA)|[Bilibili](https://www.bilibili.com/video/BV1Gt421t7X6)|[Xigua](https://www.ixigua.com/i7343038976959840803)|
 |20|[668. Kth Smallest 0020](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/668.py)|Medium|[Youtube](https://www.youtube.com/watch?v=5DYgSTXSNK0)|[Bilibili](https://www.bilibili.com/video/BV1sx42127tU)|[Xigua](https://www.ixigua.com/i7343389869911540224)|
+
+## Stack
+| # | Title | Todo | Answer | Difficulty | Youtube | Bilibili | Ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|20|[python3 Stack 0021](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=iao5oGnNNH4)|[Bilibili](https://www.bilibili.com/video/BV1bF4m1V7vP)|[Xigua](https://www.ixigua.com/i7344138174903353908)|
