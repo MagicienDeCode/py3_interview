@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "Medium"
+difficulty = "Easy"
 
-count = 20
+count = 22
 
-title = "668. Kth Smallest 0020"
+title = "20"
 
-title_link = "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/"
+title_link = "https://leetcode.com/problems/valid-parentheses/description/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/668.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/20_1249.py"
 
-youtubeid = "5DYgSTXSNK0"
+youtubeid = "_6wKuviAQGI"
 
-biid = "BV1sx42127tU"
+biid = "BV1yF4m1V7Ly"
 
-xiguaid = "7343389869911540224"
+xiguaid = "7345200677414666786"
 
 
 
