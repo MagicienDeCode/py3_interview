@@ -37,7 +37,7 @@
 
 ## Stack
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |21|python3 Stack 0021|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/stack.py) / [Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=iao5oGnNNH4)|[Bilibili](https://www.bilibili.com/video/BV1bF4m1V7vP)|[Xigua](https://www.ixigua.com/i7344138174903353908)|
 |22|[20](https://leetcode.com/problems/valid-parentheses/description/) & [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) 0022|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/20_1249.py)|Easy|[Youtube](https://www.youtube.com/watch?v=_6wKuviAQGI)|[Bilibili](https://www.bilibili.com/video/BV1yF4m1V7Ly)|[Xigua](https://www.ixigua.com/i7345200677414666786)|
 
