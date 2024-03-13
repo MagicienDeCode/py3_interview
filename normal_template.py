@@ -6,21 +6,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 23
+count = 24
 
-title = "155"
+title = "739. 0024"
 
-title_link = "https://leetcode.com/problems/min-stack/description/"
+title_link = "https://leetcode.com/problems/daily-temperatures/description/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/155_150.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/739.py"
 
-youtubeid = "GO0UJso9Hsk"
+youtubeid = "h1ohPpdsrX8"
 
-biid = "BV1gw4m1d757"
+biid = "BV1rw4m1d7UG"
 
-xiguaid = "7345646968917787146"
+xiguaid = "7345972453908152843"
 
 
 
