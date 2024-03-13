@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "Easy"
+difficulty = "Medium"
 
-count = 22
+count = 23
 
-title = "20"
+title = "155"
 
-title_link = "https://leetcode.com/problems/valid-parentheses/description/"
+title_link = "https://leetcode.com/problems/min-stack/description/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/20_1249.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/155_150.py"
 
-youtubeid = "_6wKuviAQGI"
+youtubeid = "GO0UJso9Hsk"
 
-biid = "BV1yF4m1V7Ly"
+biid = "BV1gw4m1d757"
 
-xiguaid = "7345200677414666786"
+xiguaid = "7345646968917787146"
 
 
 
