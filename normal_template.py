@@ -4,23 +4,23 @@ answer = "Answer"
 
 
 
-difficulty = "Medium"
+difficulty = "Medium+"
 
-count = 24
+count = 25
 
-title = "739. 0024"
+title = "22. "
 
-title_link = "https://leetcode.com/problems/daily-temperatures/description/"
+title_link = "https://leetcode.com/problems/generate-parentheses/"
 
 #todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/739.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/22.py"
 
-youtubeid = "h1ohPpdsrX8"
+youtubeid = "P_ZbdNQE0KU"
 
-biid = "BV1rw4m1d7UG"
+biid = "BV19w4m1R71K"
 
-xiguaid = "7345972453908152843"
+xiguaid = "7346312639321997824"
 
 
 
