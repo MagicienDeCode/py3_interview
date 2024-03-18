@@ -45,3 +45,7 @@
 |25|[22. ](https://leetcode.com/problems/generate-parentheses/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/22.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=P_ZbdNQE0KU)|[Bilibili](https://www.bilibili.com/video/BV19w4m1R71K)|[Xigua](https://www.ixigua.com/i7346312639321997824)|
 |26|[853. ](https://leetcode.com/problems/car-fleet/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/853.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=VpW0jZXTdiY)|[Bilibili](https://www.bilibili.com/video/BV1cx421k7qH)|[Xigua](https://www.ixigua.com/i7347098970306380315)
 
+## Tree
+| # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|27|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) & [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) & [145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=cn5QZngcwmw)|[Bilibili](https://www.bilibili.com/video/BV1Xx421C79L)|[Xigua](https://www.ixigua.com/i7347788276910162484)|

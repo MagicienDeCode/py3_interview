@@ -2,26 +2,23 @@
 answer = "Answer"
 
 
+difficulty = "Easy"
 
+count = 27
 
-difficulty = "Medium+"
+title = "Python3 Binary Tree 0027"
 
-count = 26
+title_link = "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
 
-title = "853. "
+#todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/94_144_155.py"
 
-title_link = "https://leetcode.com/problems/car-fleet/description/"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py"
 
-#todo_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/875.py"
+youtubeid = "cn5QZngcwmw"
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/853.py"
+biid = "BV1Xx421C79L"
 
-youtubeid = "VpW0jZXTdiY"
-
-biid = "BV1cx421k7qH"
-
-xiguaid = "7347098970306380315"
-
+xiguaid = "7347788276910162484"
 
 
 youtube = "https://www.youtube.com/watch?v="+youtubeid
@@ -38,4 +35,3 @@ var6 = "|[Bilibili]("+bilibili+")"
 var7 = "|[Xigua]("+xigua+")"+"|"
 
 print(var0+var1+var3+var4+var5+var6+var7)
-
