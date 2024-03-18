@@ -48,4 +48,4 @@
 ## Tree
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|27|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) & [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) & [145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=cn5QZngcwmw)|[Bilibili](https://www.bilibili.com/video/BV1Xx421C79L)|[Xigua](https://www.ixigua.com/i7347788276910162484)|
+|27|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) & [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) & [145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/94_144_145.py)|Easy|[Youtube](https://www.youtube.com/watch?v=cn5QZngcwmw)|[Bilibili](https://www.bilibili.com/video/BV1Xx421C79L)|[Xigua](https://www.ixigua.com/i7347788276910162484)|
