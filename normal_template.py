@@ -2,23 +2,23 @@
 answer = "Answer"
 
 
-difficulty = "Easy"
+difficulty = "Medium"
 
-count = 28
+count = 29
 
-title = "Python3 Binary Tree 六合一 0028"
+title = "Python3 Binary Tree 三合一1 0029"
 
 title_link = "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/easy_6_in_1.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/235_102_199.py"
 
-youtubeid = "VmxeUTc2FR4"
+youtubeid = "2eU5XdPPzv0"
 
-biid = "BV1Su4m1M7Wa"
+biid = "BV13H4y1W7gF"
 
-xiguaid = "7348180827450114612"
+xiguaid = "7348558056860418560"
 
 
 
