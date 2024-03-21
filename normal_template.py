@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 29
+count = 30
 
-title = "Python3 Binary Tree 三合一1 0029"
+title = "Python3 Binary Tree 三合一2 0030"
 
 title_link = "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/235_102_199.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/98_1448_230.py"
 
-youtubeid = "2eU5XdPPzv0"
+youtubeid = "5xi7D3BT7oA"
 
-biid = "BV13H4y1W7gF"
+biid = "BV1au4m1T7sZ"
 
-xiguaid = "7348558056860418560"
+xiguaid = "7348947852703302171"
 
 
 
