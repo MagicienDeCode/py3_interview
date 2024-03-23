@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 30
+count = 31
 
-title = "Python3 Binary Tree 三合一2 0030"
+title = "105. 创建二叉树 0031"
 
-title_link = "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
+title_link = "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/98_1448_230.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/105.py"
 
-youtubeid = "5xi7D3BT7oA"
+youtubeid = "QWaw18gEXeE"
 
-biid = "BV1au4m1T7sZ"
+biid = "BV1Gx421k7Hz"
 
-xiguaid = "7348947852703302171"
+xiguaid = "7349343730106630683"
 
 
 
