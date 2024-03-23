@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 31
+count = 32
 
-title = "105. 创建二叉树 0031"
+title = "二叉树序列化与反序列化"
 
-title_link = "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+title_link = "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/105.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/297.py"
 
-youtubeid = "QWaw18gEXeE"
+youtubeid = "0furkCAJhZo"
 
-biid = "BV1Gx421k7Hz"
+biid = "BV1Qm411R78z"
 
-xiguaid = "7349343730106630683"
+xiguaid = "7349689915426210313"
 
 
 
