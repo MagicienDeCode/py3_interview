@@ -2,23 +2,23 @@
 answer = "Answer"
 
 
-difficulty = "Medium"
+difficulty = "Easy"
 
-count = 32
+count = 33
 
-title = "二叉树序列化与反序列化"
+title = "叉树先序遍历"
 
-title_link = "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/"
+title_link = "https://leetcode.com/problems/n-ary-tree-preorder-traversal/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/297.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/589.py"
 
-youtubeid = "0furkCAJhZo"
+youtubeid = "xLMcZ5AHkms"
 
-biid = "BV1Qm411R78z"
+biid = "BV1Rj421976F"
 
-xiguaid = "7349689915426210313"
+xiguaid = "7350767908055679523"
 
 
 
