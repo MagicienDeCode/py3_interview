@@ -56,3 +56,8 @@
 |32|[二叉树序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/297.py)|Medium|[Youtube](https://www.youtube.com/watch?v=0furkCAJhZo)|[Bilibili](https://www.bilibili.com/video/BV1Qm411R78z)|[Xigua](https://www.ixigua.com/i7349689915426210313)|
 |33|[叉树先序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/589.py)|Easy|[Youtube](https://www.youtube.com/watch?v=xLMcZ5AHkms)|[Bilibili](https://www.bilibili.com/video/BV1Rj421976F)|[Xigua](https://www.ixigua.com/i7350767908055679523)|
 
+
+## Bfs
+| # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|34|[Python3 双端队列]|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py)|Easy|[Youtube](https://www.youtube.com/watch?v=vuTWWSxWHTI)|[Bilibili](https://www.bilibili.com/video/BV1MZ421B7Ky)|[Xigua](https://www.ixigua.com/i7354383079579845154)|

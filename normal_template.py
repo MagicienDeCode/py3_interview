@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Easy"
 
-count = 33
+count = 34
 
-title = "叉树先序遍历"
+title = "Python3 双端队列"
 
 title_link = "https://leetcode.com/problems/n-ary-tree-preorder-traversal/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/589.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py"
 
-youtubeid = "xLMcZ5AHkms"
+youtubeid = "vuTWWSxWHTI"
 
-biid = "BV1Rj421976F"
+biid = "BV1MZ421B7Ky"
 
-xiguaid = "7350767908055679523"
+xiguaid = "7354383079579845154"
 
 
 
