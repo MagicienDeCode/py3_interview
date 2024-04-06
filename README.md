@@ -61,3 +61,4 @@
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |34|[Python3 双端队列]|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py)|Easy|[Youtube](https://www.youtube.com/watch?v=vuTWWSxWHTI)|[Bilibili](https://www.bilibili.com/video/BV1MZ421B7Ky)|[Xigua](https://www.ixigua.com/i7354383079579845154)|
+|35|[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) & [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/107_1022.py)|Easy|[Youtube](https://www.youtube.com/watch?v=rJbpBlEds5E)|[Bilibili](https://www.bilibili.com/video/BV1qM4m1Q74f)|[Xigua](https://www.ixigua.com/i7354865282910781990)|

@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Easy"
 
-count = 34
+count = 35
 
-title = "Python3 双端队列"
+title = "107"
 
-title_link = "https://leetcode.com/problems/n-ary-tree-preorder-traversal/"
+title_link = "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/107_1022.py"
 
-youtubeid = "vuTWWSxWHTI"
+youtubeid = "rJbpBlEds5E"
 
-biid = "BV1MZ421B7Ky"
+biid = "BV1qM4m1Q74f"
 
-xiguaid = "7354383079579845154"
+xiguaid = "7354865282910781990"
 
 
 
