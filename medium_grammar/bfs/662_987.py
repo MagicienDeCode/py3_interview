@@ -28,6 +28,28 @@ class Solution662:
 
         return res
 
+    def widthOfBinaryTreeBetter(self, root: Optional[TreeNode]) -> int:
+        res = 1
+        if not root:
+            return 0
+        dq = deque()
+        dq.append([root,1])
+        while dq:
+            size = len(dq)
+            if size >= 2:
+                maxv = dq[-1][1]
+                minv = dq[0][1]
+                res = max(res,maxv - minv +1)
+
+            for _ in range(size):
+                r,v = dq.popleft()
+                if r.left:
+                    dq.append([r.left, v << 1])
+                if r.right:
+                    dq.append([r.right, v * 2 + 1])
+
+        return res
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
