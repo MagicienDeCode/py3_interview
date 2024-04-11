@@ -6,19 +6,19 @@ difficulty = "Medium"
 
 count = 38
 
-title = "133"
+title = "127"
 
-title_link = "https://leetcode.com/problems/clone-graph/"
+title_link = "https://leetcode.com/problems/word-ladder/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/133.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/127.py"
 
-youtubeid = "2dNuOJ_sT5M"
+youtubeid = "X0Af3MnfMmc"
 
-biid = "BV1Fx421S7Sw"
+biid = "BV1hA4m1w7bY"
 
-xiguaid = "7356355211960517160"
+xiguaid = "7356740932018012682"
 
 
 
