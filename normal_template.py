@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 41
+count = 42
 
-title = "210"
+title = "743"
 
-title_link = "https://leetcode.com/problems/course-schedule-ii/description/"
+title_link = "https://leetcode.com/problems/network-delay-time/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/210.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/743.py"
 
-youtubeid = "Psaxx8A-4Qw"
+youtubeid = "SkTJk4nmx4Q"
 
-biid = "BV16x421m7ut"
+biid = "BV1kF4m1P73u"
 
-xiguaid = "7358238747353154082"
+xiguaid = "7358925660242313754"
 
 
 
