@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 42
+count = 43
 
-title = "743"
+title = "1129"
 
-title_link = "https://leetcode.com/problems/network-delay-time/description/"
+title_link = "https://leetcode.com/problems/shortest-path-with-alternating-colors/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/743.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/1129.py"
 
-youtubeid = "SkTJk4nmx4Q"
+youtubeid = "ZyQG-hXApqI"
 
-biid = "BV1kF4m1P73u"
+biid = "BV1px4y1h7yY"
 
-xiguaid = "7358925660242313754"
+xiguaid = "7359355852765168128"
 
 
 
