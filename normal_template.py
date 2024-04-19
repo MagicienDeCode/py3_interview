@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 43
+count = 44
 
-title = "1129"
+title = "1311"
 
-title_link = "https://leetcode.com/problems/shortest-path-with-alternating-colors/description/"
+title_link = "https://leetcode.com/problems/get-watched-videos-by-your-friends/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/1129.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/1311.py"
 
-youtubeid = "ZyQG-hXApqI"
+youtubeid = "1Qi5i2KBZVw"
 
-biid = "BV1px4y1h7yY"
+biid = "BV1tm411U7nx"
 
-xiguaid = "7359355852765168128"
+xiguaid = "7359651307872846375"
 
 
 
