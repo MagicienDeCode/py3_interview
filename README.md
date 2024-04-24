@@ -72,6 +72,7 @@
 |43|[1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/1129.py)|Medium|[Youtube](https://www.youtube.com/watch?v=ZyQG-hXApqI)|[Bilibili](https://www.bilibili.com/video/BV1px4y1h7yY)|[Xigua](https://www.ixigua.com/i7359355852765168128)|
 |44|[1311](https://leetcode.com/problems/get-watched-videos-by-your-friends/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/1311.py)|Medium|[Youtube](https://www.youtube.com/watch?v=1Qi5i2KBZVw)|[Bilibili](https://www.bilibili.com/video/BV1tm411U7nx)|[Xigua](https://www.ixigua.com/i7359651307872846375)|
 |45|[200](https://leetcode.com/problems/number-of-islands/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/200.py)|Medium|[Youtube](https://www.youtube.com/watch?v=azRmwGw8uoM)|[Bilibili](https://www.bilibili.com/video/BV1vE421L7gq)|[Xigua](https://www.ixigua.com/i7360814949276320297)|
+|46|[994](https://leetcode.com/problems/rotting-oranges/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/994.py)|Medium|[Youtube](https://www.youtube.com/watch?v=aw40gq-zatk)|[Bilibili](https://www.bilibili.com/video/BV1Rt421w7RV)|[Xigua](https://www.ixigua.com/i7361558725776048655)|
 
 
 

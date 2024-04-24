@@ -27,3 +27,38 @@ print(sorted_lst) # [('c', 1), ('aa', 22), ('bb', 22)]
 sorted_lst2 = sorted(lst, key = lambda x: (x[1],x[0]), reverse = True)
 print(sorted_lst2) # [('bb', 22), ('aa', 22), ('c', 1)]
 
+# heapq, customer sort, sort by the second element, then the first
+class MyOb:
+  def init (self, i:int,s:str):
+    self.i = i
+    self.s = s
+  
+  def lt (self,other):
+    if self.s == other.s:
+      return self.i < other.i
+    return self.s < other.s
+
+m2 = MyOb(22,"bb")
+m1 = MyOb(33,"bb")
+m3 = MyOb(444,"cc")
+m4 = MyOb(999,"a")
+
+import heapq
+
+pq = []
+heapq.heappush(pq,m1)
+heapq.heappush(pq,m2)
+heapq.heappush(pq,m3)
+heapq.heappush(pq,m4)
+
+while pq:
+  print(heapq.heappop(pq).i)
+
+# BFS matrix
+for dx,dy in [(1,0),(-1,0),(0,1),(0,-1)]:
+    nx = x + dx
+    ny = y + dy
+    if nx >= 0 and ny >= 0 and nx < len(grid) and ny < len(grid[0]):
+        if grid[nx][ny] == 1:
+            grid[nx][ny] = 7
+            dq.append([nx,ny])
