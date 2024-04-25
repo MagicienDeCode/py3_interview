@@ -62,3 +62,20 @@ for dx,dy in [(1,0),(-1,0),(0,1),(0,-1)]:
         if grid[nx][ny] == 1:
             grid[nx][ny] = 7
             dq.append([nx,ny])
+
+m = 3  # 行数
+n = 4  # 列数
+
+# 声明一个m*n的数组，初始化全为False
+array = [[False for _ in range(n)] for _ in range(m)]
+print(array) # [[False, False, False, False], [False, False, False, False], [False, False, False, False]]
+array[2][0] = True
+print(array) # [[False, False, False, False], [False, False, False, False], [True, False, False, False]]
+
+# Example of wrong declaration 
+arr2 = [[False]*4 for _ in range(m)]
+print(arr2) # [[False, False, False, False], [False, False, False, False], [False, False, False, False]]
+arr3 = [[False]*4]*3
+print(arr3) # [[False, False, False, False], [False, False, False, False], [False, False, False, False]]
+arr3[2][0] = True
+print(arr3) # [[True, False, False, False], [True, False, False, False], [True, False, False, False]]

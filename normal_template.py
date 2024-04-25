@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 46
+count = 47
 
-title = "994"
+title = "529"
 
-title_link = "https://leetcode.com/problems/rotting-oranges/"
+title_link = "https://leetcode.com/problems/minesweeper/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/994.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/529.py"
 
-youtubeid = "aw40gq-zatk"
+youtubeid = "O2LbLn4aTl8"
 
-biid = "BV1Rt421w7RV"
+biid = "BV1QE421K7M8"
 
-xiguaid = "7361558725776048655"
+xiguaid = "7361889692003861046"
 
 
 
