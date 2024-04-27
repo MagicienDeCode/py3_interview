@@ -2,23 +2,23 @@
 answer = "Answer"
 
 
-difficulty = "Medium"
+difficulty = "Medium+"
 
-count = 47
+count = 48
 
-title = "529"
+title = "752"
 
-title_link = "https://leetcode.com/problems/minesweeper/"
+title_link = "https://leetcode.com/problems/open-the-lock/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/529.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/752_1293.py"
 
-youtubeid = "O2LbLn4aTl8"
+youtubeid = "os4wDoAakrc"
 
-biid = "BV1QE421K7M8"
+biid = "BV1Rx4y1B7ML"
 
-xiguaid = "7361889692003861046"
+xiguaid = "7362688486115934720"
 
 
 
