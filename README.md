@@ -45,7 +45,7 @@
 |25|[22. ](https://leetcode.com/problems/generate-parentheses/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/22.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=P_ZbdNQE0KU)|[Bilibili](https://www.bilibili.com/video/BV19w4m1R71K)|[Xigua](https://www.ixigua.com/i7346312639321997824)|
 |26|[853. ](https://leetcode.com/problems/car-fleet/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/853.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=VpW0jZXTdiY)|[Bilibili](https://www.bilibili.com/video/BV1cx421k7qH)|[Xigua](https://www.ixigua.com/i7347098970306380315)
 
-## Tree
+## [Tree](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/TREE_ALL_IN_ONE.pdf)
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |27|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) & [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) & [145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/94_144_145.py)|Easy|[Youtube](https://www.youtube.com/watch?v=cn5QZngcwmw)|[Bilibili](https://www.bilibili.com/video/BV1Xx421C79L)|[Xigua](https://www.ixigua.com/i7347788276910162484)|
@@ -57,7 +57,7 @@
 |33|[叉树先序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/589.py)|Easy|[Youtube](https://www.youtube.com/watch?v=xLMcZ5AHkms)|[Bilibili](https://www.bilibili.com/video/BV1Rj421976F)|[Xigua](https://www.ixigua.com/i7350767908055679523)|
 
 
-## Bfs
+## [BFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/BFS%20-%20Breadth%20First%20Search.pdf)
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |34|[Python3 双端队列]|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py)|Easy|[Youtube](https://www.youtube.com/watch?v=vuTWWSxWHTI)|[Bilibili](https://www.bilibili.com/video/BV1MZ421B7Ky)|[Xigua](https://www.ixigua.com/i7354383079579845154)|
@@ -76,3 +76,7 @@
 |47|[529](https://leetcode.com/problems/minesweeper/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/529.py)|Medium|[Youtube](https://www.youtube.com/watch?v=O2LbLn4aTl8)|[Bilibili](https://www.bilibili.com/video/BV1QE421K7M8)|[Xigua](https://www.ixigua.com/i7361889692003861046)|
 |48|[752](https://leetcode.com/problems/open-the-lock/) & [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/752_1293.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=os4wDoAakrc)|[Bilibili](https://www.bilibili.com/video/BV1Rx4y1B7ML)|[Xigua](https://www.ixigua.com/i7362688486115934720)|
 
+## [DFS]()
+| # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|49|[78](https://leetcode.com/problems/subsets/description/) & [90](https://leetcode.com/problems/subsets-ii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=A7uWB0thhRU)|[Bilibili](https://www.bilibili.com/video/BV1Sm411y7ys)|[Xigua](https://www.ixigua.com/i7363040684913197602)|

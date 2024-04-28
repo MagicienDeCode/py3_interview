@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium+"
 
-count = 48
+count = 49
 
-title = "752"
+title = "78"
 
-title_link = "https://leetcode.com/problems/open-the-lock/"
+title_link = "https://leetcode.com/problems/subsets/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/752_1293.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py"
 
-youtubeid = "os4wDoAakrc"
+youtubeid = "A7uWB0thhRU"
 
-biid = "BV1Rx4y1B7ML"
+biid = "BV1Sm411y7ys"
 
-xiguaid = "7362688486115934720"
+xiguaid = "7363040684913197602"
 
 
 
