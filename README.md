@@ -76,7 +76,7 @@
 |47|[529](https://leetcode.com/problems/minesweeper/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/529.py)|Medium|[Youtube](https://www.youtube.com/watch?v=O2LbLn4aTl8)|[Bilibili](https://www.bilibili.com/video/BV1QE421K7M8)|[Xigua](https://www.ixigua.com/i7361889692003861046)|
 |48|[752](https://leetcode.com/problems/open-the-lock/) & [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/752_1293.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=os4wDoAakrc)|[Bilibili](https://www.bilibili.com/video/BV1Rx4y1B7ML)|[Xigua](https://www.ixigua.com/i7362688486115934720)|
 
-## [DFS]()
+## [DFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/DFS_ALL_IN_ONE.pdf)
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |49|[78](https://leetcode.com/problems/subsets/description/) & [90](https://leetcode.com/problems/subsets-ii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=A7uWB0thhRU)|[Bilibili](https://www.bilibili.com/video/BV1Sm411y7ys)|[Xigua](https://www.ixigua.com/i7363040684913197602)|
