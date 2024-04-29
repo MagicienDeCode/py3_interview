@@ -79,4 +79,5 @@
 ## [DFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/DFS_ALL_IN_ONE.pdf)
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|49|[78](https://leetcode.com/problems/subsets/description/) & [90](https://leetcode.com/problems/subsets-ii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=A7uWB0thhRU)|[Bilibili](https://www.bilibili.com/video/BV1Sm411y7ys)|[Xigua](https://www.ixigua.com/i7363040684913197602)|
+|49|[78](https://leetcode.com/problems/subsets/description/) & [90](https://leetcode.com/problems/subsets-ii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py)|Medium|[Youtube](https://www.youtube.com/watch?v=A7uWB0thhRU)|[Bilibili](https://www.bilibili.com/video/BV1Sm411y7ys)|[Xigua](https://www.ixigua.com/i7363040684913197602)|
+|50|[797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/797.py)|Medium|[Youtube](https://www.youtube.com/watch?v=9h7wNcBqEfs)|[Bilibili](https://www.bilibili.com/video/BV1im41117v7)|[Xigua](https://www.ixigua.com/i7363391666692031002)|

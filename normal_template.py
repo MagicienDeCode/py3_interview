@@ -2,23 +2,23 @@
 answer = "Answer"
 
 
-difficulty = "Medium+"
+difficulty = "Medium"
 
-count = 49
+count = 50
 
-title = "78"
+title = "797"
 
-title_link = "https://leetcode.com/problems/subsets/description/"
+title_link = "https://leetcode.com/problems/all-paths-from-source-to-target/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/797.py"
 
-youtubeid = "A7uWB0thhRU"
+youtubeid = "9h7wNcBqEfs"
 
-biid = "BV1Sm411y7ys"
+biid = "BV1im41117v7"
 
-xiguaid = "7363040684913197602"
+xiguaid = "7363391666692031002"
 
 
 
