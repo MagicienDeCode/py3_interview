@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Hard"
 
-count = 51
+count = 52
 
-title = "980"
+title = "51"
 
-title_link = "https://leetcode.com/problems/unique-paths-iii/description/"
+title_link = "https://leetcode.com/problems/n-queens/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/980.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/51.py"
 
-youtubeid = "UQy_8qOu2Tk"
+youtubeid = "nL2hY1UfT_k"
 
-biid = "BV1ir421u7TH"
+biid = "BV1Gt421F7JA"
 
-xiguaid = "7364150187670897188"
+xiguaid = "7364941866048946688"
 
 
 
