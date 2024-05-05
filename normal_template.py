@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Hard"
 
-count = 52
+count = 53
 
-title = "51"
+title = "37 sudoku"
 
-title_link = "https://leetcode.com/problems/n-queens/description/"
+title_link = "https://leetcode.com/problems/sudoku-solver/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/51.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/37.py"
 
-youtubeid = "nL2hY1UfT_k"
+youtubeid = "FzrIUxtAHEY"
 
-biid = "BV1Gt421F7JA"
+biid = "BV1Um421H7H2"
 
-xiguaid = "7364941866048946688"
+xiguaid = "7365605624932991488"
 
 
 
