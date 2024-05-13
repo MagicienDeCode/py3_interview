@@ -2,23 +2,23 @@
 answer = "Answer"
 
 
-difficulty = "Easy"
+difficulty = "Medium"
 
-count = 55
+count = 56
 
-title = "509_fibonacci"
+title = "688"
 
-title_link = "https://leetcode.com/problems/fibonacci-number/description/"
+title_link = "https://leetcode.com/problems/knight-probability-in-chessboard/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/509.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/688.py"
 
-youtubeid = "58imzbmBagY"
+youtubeid = "4AO78KP6dkU"
 
-biid = "BV1qJ4m1K7nQ"
+biid = "BV1Jm421M7it"
 
-xiguaid = "7367119138412495400"
+xiguaid = "7368580707884466739"
 
 
 

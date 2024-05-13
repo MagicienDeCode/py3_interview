@@ -90,3 +90,5 @@
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |55|[509_fibonacci](https://leetcode.com/problems/fibonacci-number/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/509.py)|Easy|[Youtube](https://www.youtube.com/watch?v=58imzbmBagY)|[Bilibili](https://www.bilibili.com/video/BV1qJ4m1K7nQ)|[Xigua](https://www.ixigua.com/i7367119138412495400)|
+|56|[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/688.py)|Medium|[Youtube](https://www.youtube.com/watch?v=4AO78KP6dkU)|[Bilibili](https://www.bilibili.com/video/BV1Jm421M7it)|[Xigua](https://www.ixigua.com/i7368580707884466739)|
+
