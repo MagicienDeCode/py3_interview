@@ -96,4 +96,4 @@
 ## Series
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|57|Path Sum  [112](https://leetcode.com/problems/path-sum/) [113](https://leetcode.com/problems/path-sum-ii/) [437](https://leetcode.com/problems/path-sum-iii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum)|Medium|[Youtube](https://www.youtube.com/watch?v=B7WRhtMhye8)|[Bilibili](https://www.bilibili.com/video/BV1Ni421U7zR)|[Xigua](https://www.ixigua.com/i7377480762032914982)|
+|57|Path Sum  [112](https://leetcode.com/problems/path-sum/) & [113](https://leetcode.com/problems/path-sum-ii/) & [437](https://leetcode.com/problems/path-sum-iii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum)|Medium|[Youtube](https://www.youtube.com/watch?v=B7WRhtMhye8)|[Bilibili](https://www.bilibili.com/video/BV1Ni421U7zR)|[Xigua](https://www.ixigua.com/i7377480762032914982)|
