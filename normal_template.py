@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 56
+count = 57
 
-title = "688"
+title = "Path Sum"
 
 title_link = "https://leetcode.com/problems/knight-probability-in-chessboard/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/688.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum"
 
-youtubeid = "4AO78KP6dkU"
+youtubeid = "B7WRhtMhye8"
 
-biid = "BV1Jm421M7it"
+biid = "BV1Ni421U7zR"
 
-xiguaid = "7368580707884466739"
+xiguaid = "7377480762032914982"
 
 
 
