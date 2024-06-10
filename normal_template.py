@@ -4,9 +4,9 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 57
+count = 58
 
-title = "Path Sum"
+title = "Unique Paths"
 
 title_link = "https://leetcode.com/problems/knight-probability-in-chessboard/"
 
@@ -14,11 +14,11 @@ title_link = "https://leetcode.com/problems/knight-probability-in-chessboard/"
 
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum"
 
-youtubeid = "B7WRhtMhye8"
+youtubeid = "tUOhSCjvHEM"
 
-biid = "BV1Ni421U7zR"
+biid = "BV1ew4m1v7BS"
 
-xiguaid = "7377480762032914982"
+xiguaid = "7378940126816109096"
 
 
 
