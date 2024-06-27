@@ -56,6 +56,7 @@
 |32|[二叉树序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/297.py)|Medium|[Youtube](https://www.youtube.com/watch?v=0furkCAJhZo)|[Bilibili](https://www.bilibili.com/video/BV1Qm411R78z)|[Xigua](https://www.ixigua.com/i7349689915426210313)|
 |33|[叉树先序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/589.py)|Easy|[Youtube](https://www.youtube.com/watch?v=xLMcZ5AHkms)|[Bilibili](https://www.bilibili.com/video/BV1Rj421976F)|[Xigua](https://www.ixigua.com/i7350767908055679523)|
 
+|59|随缘应聘讲师，随缘招生|Q:[1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) & [1382](https://leetcode.com/problems/balance-a-binary-search-tree/description/) A:[1038](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/1038.py) & [1382](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/1382.py)|Medium|[Youtube](https://www.youtube.com/watch?v=YQntXzEDEJw)|[Bilibili](https://www.bilibili.com/video/BV1X4421Q7tj)|[Xigua](https://www.ixigua.com/i7385264860239495718)|
 
 ## [BFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/BFS%20-%20Breadth%20First%20Search.pdf)
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
