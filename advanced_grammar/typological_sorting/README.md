@@ -30,3 +30,8 @@ u→v, vertex u comes before vertex v in the ordering.
 5. mark the current node -1.
 6. for each adjacent node, call dfs function.
 7. mark the current node 1 and add current node into result.
+
+## Leetcode
+
+-[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+-[2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
