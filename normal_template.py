@@ -6,19 +6,19 @@ difficulty = "Medium"
 
 count = 59
 
-title = "随缘应聘讲师，随缘招生"
+title = "Typological Sorting 拓扑排序"
 
-title_link = "https://leetcode.com/problems/knight-probability-in-chessboard/"
+title_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting"
 
-youtubeid = "YQntXzEDEJw"
+youtubeid = "qIDsZ7yNCfU"
 
-biid = "BV1X4421Q7tj"
+biid = "BV1Hx4y1x7ai"
 
-xiguaid = "7385264860239495718"
+xiguaid = "7387111586265039387"
 
 
 
