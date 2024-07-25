@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 59
+count = 61
 
-title = "Typological Sorting 拓扑排序"
+title = "唠叨+排序"
 
-title_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting"
+title_link = "https://leetcode.com/problems/sort-an-array/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/series/sort"
 
-youtubeid = "qIDsZ7yNCfU"
+youtubeid = "HRKaTLB4XUA"
 
-biid = "BV1Hx4y1x7ai"
+biid = "BV1Tw4m1k7z4"
 
-xiguaid = "7387111586265039387"
+xiguaid = "7395688145515184649"
 
 
 
