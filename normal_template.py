@@ -4,21 +4,21 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 61
+count = 62
 
-title = "唠叨+排序"
+title = "Dijkstra BFSPQ"
 
-title_link = "https://leetcode.com/problems/sort-an-array/description/"
+title_link = ""
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/series/sort"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/series/dijkstra_bfspq"
 
-youtubeid = "HRKaTLB4XUA"
+youtubeid = "k3TU95ArkRY"
 
-biid = "BV1Tw4m1k7z4"
+biid = "BV1A8vmeHEEh"
 
-xiguaid = "7395688145515184649"
+xiguaid = "7397526898307236379"
 
 
 
