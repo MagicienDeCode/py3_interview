@@ -24,6 +24,11 @@
 
 ## [Binary Search](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/BS_ALL_IN_ONE.pdf)
 
+1. Search the exact index/element.
+2. Search the first/last index/element.
+3. Search with complex conditions.
+4. Binary search the result range with a complex verification function
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |13|[Binary Search py3 0013](https://leetcode.com/problems/binary-search/)|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search.py)/[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/704binary_search_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=hfNgTzJ3mdc)|[Bilibili](https://www.bilibili.com/video/BV1h1421f7E9)|[Xigua](https://www.ixigua.com/i7340026021544100389)|
@@ -46,6 +51,12 @@
 |26|[853. ](https://leetcode.com/problems/car-fleet/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/853.py)|Medium+|[Youtube](https://www.youtube.com/watch?v=VpW0jZXTdiY)|[Bilibili](https://www.bilibili.com/video/BV1cx421k7qH)|[Xigua](https://www.ixigua.com/i7347098970306380315)
 
 ## [Tree](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/TREE_ALL_IN_ONE.pdf)
+
+1. Preorder/Inorder/Postorder traversal (and construct)
+2. Data Structure
+3. DFS
+4. BFS level order traversal
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |27|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) & [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) & [145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/94_144_145.py)|Easy|[Youtube](https://www.youtube.com/watch?v=cn5QZngcwmw)|[Bilibili](https://www.bilibili.com/video/BV1Xx421C79L)|[Xigua](https://www.ixigua.com/i7347788276910162484)|
@@ -58,6 +69,11 @@
 |59|随缘应聘讲师，随缘招生|Q:[1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) & [1382](https://leetcode.com/problems/balance-a-binary-search-tree/description/) A:[1038](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/1038.py) & [1382](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/tree/1382.py)|Medium|[Youtube](https://www.youtube.com/watch?v=YQntXzEDEJw)|[Bilibili](https://www.bilibili.com/video/BV1X4421Q7tj)|[Xigua](https://www.ixigua.com/i7385264860239495718)|
 
 ## [BFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/BFS%20-%20Breadth%20First%20Search.pdf)
+
+1. BFS in Tree
+2. BFS in Graph / (Typological Sorting)
+3. BFS in Matrix
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |34|[Python3 双端队列]|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/bfs/deque.py)|Easy|[Youtube](https://www.youtube.com/watch?v=vuTWWSxWHTI)|[Bilibili](https://www.bilibili.com/video/BV1MZ421B7Ky)|[Xigua](https://www.ixigua.com/i7354383079579845154)|
@@ -78,6 +94,13 @@
 |60|[Typological Sorting 拓扑排序](https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting)|[Answer](https://github.com/MagicienDeCode/py3_interview/tree/master/advanced_grammar/typological_sorting)|Medium|[Youtube](https://www.youtube.com/watch?v=qIDsZ7yNCfU)|[Bilibili](https://www.bilibili.com/video/BV1Hx4y1x7ai)|[Xigua](https://www.ixigua.com/i7387111586265039387)|
 
 ## [DFS](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/DFS_ALL_IN_ONE.pdf)
+
+1. Permutation
+2. **Combination & Backtracking**
+3. **Graph** (Tree/Matrix)
+4. Union find
+5. Other
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |49|[78](https://leetcode.com/problems/subsets/description/) & [90](https://leetcode.com/problems/subsets-ii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/dfs/78_90.py)|Medium|[Youtube](https://www.youtube.com/watch?v=A7uWB0thhRU)|[Bilibili](https://www.bilibili.com/video/BV1Sm411y7ys)|[Xigua](https://www.ixigua.com/i7363040684913197602)|
