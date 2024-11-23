@@ -17,7 +17,7 @@ class Solution:
         right = mid+1
         i = start
         while left <= mid and right <= end:
-            if nums[left] < nums[right]:
+            if nums[left] <= nums[right]:
                 temps[i] = nums[left]
                 i+=1
                 left+=1
@@ -29,7 +29,7 @@ class Solution:
             temps[i] = nums[left]
             i+=1
             left+=1
-        while right <= mid:
+        while right <= end:
             temps[i] = nums[right]
             i+=1
             right+=1
