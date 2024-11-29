@@ -3,7 +3,7 @@
 # Basic
 
 - **[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)**
-- []()
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 - []()
 - []()
 - []()
