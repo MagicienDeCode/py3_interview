@@ -1,5 +1,5 @@
 # Before Start
-- You should have zoom or goole meet.
+- Make sure zoom or goole meet works.
 - Create a leetcode account or login with google account.
 - Just have fun.
 - 恩返しです。
