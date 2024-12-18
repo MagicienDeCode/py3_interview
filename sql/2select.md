@@ -1,0 +1,28 @@
+# SELECT
+
+- template
+```sql
+# comment
+SELECT t1.col1 AS xx, t2.col2 AS xx ...
+FROM table1 t1
+    INNER JOIN table2 t2 ON t1.xx = t2.xx
+WHERE condition1 
+    AND condition2
+    AND (con3 OR con4)
+GROUP BY col2
+HAVING COUNT(xx) > xx
+ORDER BY col1 DESC/ASC
+LIMIT xx;
+```
+
+- DISTINCT : remove duplicate values from the result set. example: SELECT DISTINCT (id)
+- LENGTH: return length of a string
+
+## tips
+1. use single quote, example WHERE sex = 'F'
+2. if FROM more than two table, set alias for each table
+3. (personal) use != for not equal
+
+
+
+
