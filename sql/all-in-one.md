@@ -36,6 +36,5 @@
 -- 3. calculate average age of women, if age is NULL, take default value 18
 ```
 
-# CRUD, 增删改查，SELECT(Read) INSERT(Create) UPDATE(Update) DELETE(Delete)
+# Basic Joins
 
-# Create tables, 1 to many, many to 1, 1 to 1
