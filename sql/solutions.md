@@ -111,14 +111,36 @@ GROUP BY s.student_id, su.subject_name
 ORDER BY s.student_id, su.subject_name;
 ```
 
-- []()
+- [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description)
 ```sql
-
+SELECT manager.name
+FROM Employee emp
+LEFT JOIN Employee manager ON emp.managerId = manager.id
+GROUP BY manager.id
+HAVING COUNT(manager.id) >= 5;
 ```
 
-- []()
+- [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/)
 ```sql
+SELECT s.user_id, ROUND(AVG(IF(c.action='confirmed',1,0)),2) AS confirmation_rate
+FROM Signups s
+LEFT JOIN Confirmations c ON s.user_id = c.user_id
+GROUP BY s.user_id;
 
+SELECT t1.user_id, COALESCE(ROUND(t2.confirmed / t1.total,2), 0) AS confirmation_rate
+FROM 
+(
+    SELECT s.user_id, COUNT(c.user_id) AS total
+    FROM Signups s LEFT JOIN Confirmations c ON s.user_id = c.user_id
+    GROUP BY s.user_id
+) t1
+LEFT JOIN
+(
+    SELECT s.user_id, COUNT(c.user_id) AS confirmed
+    FROM Signups s LEFT JOIN Confirmations c ON s.user_id = c.user_id
+    WHERE c.action = 'confirmed'
+    GROUP BY s.user_id
+) t2 ON t1.user_id = t2.user_id;
 ```
 
 ## Basic Aggregate Functions
