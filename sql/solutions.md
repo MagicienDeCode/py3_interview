@@ -144,6 +144,110 @@ LEFT JOIN
 ```
 
 ## Basic Aggregate Functions
+- [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description)
+```sql
+SELECT c.id, c.movie, c.description, c.rating
+FROM Cinema c
+WHERE c.description != 'boring' 
+AND c.id % 2 != 0
+ORDER BY c.rating DESC;
+```
+
+- [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description)
+```sql
+SELECT p.product_id,
+    COALESCE(ROUND(SUM(p.price*u.units)/SUM(u.units),2),0) AS average_price
+FROM Prices p
+LEFT JOIN UnitsSold u ON p.product_id = u.product_id AND u.purchase_date BETWEEN p.start_date AND p.end_date
+GROUP BY p.product_id;
+```
+
+- [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description)
+```sql
+SELECT p.project_id, ROUND(AVG(e.experience_years),2) AS average_years
+FROM Project p
+INNER JOIN Employee e ON p.employee_id = e.employee_id
+GROUP BY p.project_id;
+
+SELECT p.project_id, ROUND(SUM(e.experience_years) / COUNT(e.employee_id),2) AS average_years
+FROM Project p
+INNER JOIN Employee e ON p.employee_id = e.employee_id
+GROUP BY p.project_id;
+```
+
+- [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description)
+```sql
+SELECT r.contest_id, ROUND(COUNT(r.user_id)/(SELECT COUNT(u.user_id) FROM Users u),4)*100 AS percentage
+FROM Register r
+GROUP BY r.contest_id
+ORDER BY percentage DESC,
+r.contest_id ASC;
+```
+
+- [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)
+```sql
+SELECT q.query_name,
+    ROUND(SUM(q.rating/position) / COUNT(q.query_name),2) AS quality,
+    ROUND(SUM(CASE WHEN rating<3 THEN 1 ELSE 0 END) / COUNT(q.query_name),4)*100 AS poor_query_percentage
+FROM Queries q
+GROUP BY q.query_name;
+```
+
+- [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/)
+```sql
+SELECT LEFT(t.trans_date,7) AS month,
+    t.country,
+    COUNT(t.id) AS trans_count,
+    SUM(state = 'approved') AS approved_count,
+    SUM(amount) AS trans_total_amount,
+    SUM((state='approved')*amount) AS approved_total_amount
+FROM Transactions t
+GROUP BY month, t.country;
+```
+
+- [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/)
+```sql
+SELECT ROUND(AVG(d.order_date = d.customer_pref_delivery_date),4)*100 as immediate_percentage
+FROM Delivery d
+WHERE (d.customer_id, d.order_date) IN(
+    SELECT d.customer_id, MIN(d.order_date) AS first
+    FROM Delivery d
+    GROUP BY d.customer_id
+);
+```
+
+- [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description)
+```sql
+SELECT ROUND(COUNT(a.player_id)/(SELECT COUNT(DISTINCT player_id) FROM Activity),2) AS fraction
+FROM Activity a
+WHERE (a.player_id, a.event_date - INTERVAL 1 DAY) IN (
+    SELECT a.player_id, MIN(a.event_date)
+    FROM Activity a
+    GROUP BY a.player_id
+);
+```
+
+## Sorting and Grouping
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
 - []()
 ```sql
 

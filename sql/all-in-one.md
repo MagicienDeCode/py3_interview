@@ -40,3 +40,5 @@
 # Basic Joins
 - [README](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/3.0.basic-joins.md)
 
+# Basic Aggregate Functions
+- COUNT SUM AVG MIN MAX
