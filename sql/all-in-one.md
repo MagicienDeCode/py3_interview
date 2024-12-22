@@ -38,11 +38,15 @@
 - homework todo, [answer](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/2.1.todo.md)
 
 # Basic Joins
+
+- [README](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/3.0.basic-joins.md)
 - Foreign Key
 - One to One (1 to 1): FK both
 - One to Many (1 to n): FK in Many
 - Many to Many (n to n): create a new mid table to store relation.
-- [README](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/3.0.basic-joins.md)
+
+- IF(xx='xx',1,0)
+- xx + INTERVAL 1 DAY = yy
 
 # Basic Aggregate Functions
 - COUNT SUM AVG MIN MAX
@@ -53,5 +57,9 @@
 - AVG(xx == yy)
 - COUNT(xx) / (SELECT COUNT(DISTINCT xx) FROM Table)
 - WHERE (xx,yy) IN (SELECT xx,yy FROM Table GROUP BY xx)
+- GROUP BY xx1, xx2
 
 # Sorting and Grouping
+- HAVING COUNT(xx) = (SELECT xx ..)
+
+
