@@ -228,29 +228,50 @@ WHERE (a.player_id, a.event_date - INTERVAL 1 DAY) IN (
 ```
 
 ## Sorting and Grouping
-- []()
+- [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description)
 ```sql
-
+SELECT t.teacher_id, COUNT(DISTINCT t.subject_id) AS cnt
+FROM Teacher t
+GROUP BY t.teacher_id;
 ```
 
-- []()
+- [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description)
 ```sql
-
+SELECT a.activity_date AS day, COUNT(DISTINCT a.user_id) AS active_users
+FROM Activity a
+WHERE a.activity_date + INTERVAL 30 DAY > '2019_07_27' AND a.activity_date <= '2019_07_27'
+GROUP BY a.activity_date;
 ```
 
-- []()
+- [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description)
 ```sql
-
+SELECT s.product_id, s.year AS first_year, s.quantity, s.price
+FROM Sales s
+WHERE (s.product_id,s.year) IN (
+    SELECT s.product_id, MIN(s.year)
+    FROM Sales s
+    GROUP BY s.product_id
+);
 ```
 
-- []()
+- [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description)
 ```sql
-
+SELECT c.class
+FROM Courses c
+GROUP BY c.class
+HAVING COUNT(c.student) >= 5;
 ```
 
-- []()
+- [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description)
 ```sql
-
+SELECT COALESCE((
+    SELECT m.num
+    FROM MyNumbers m
+    GROUP BY m.num
+    HAVING COUNT(m.NUM) = 1
+    ORDER BY m.num DESC
+    LIMIT 1
+),NULL) AS num;
 ```
 
 - []()

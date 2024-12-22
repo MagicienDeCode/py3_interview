@@ -38,6 +38,10 @@
 - homework todo, [answer](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/2.1.todo.md)
 
 # Basic Joins
+- Foreign Key
+- One to One (1 to 1): FK both
+- One to Many (1 to n): FK in Many
+- Many to Many (n to n): create a new mid table to store relation.
 - [README](https://github.com/MagicienDeCode/py3_interview/blob/master/sql/3.0.basic-joins.md)
 
 # Basic Aggregate Functions
