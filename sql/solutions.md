@@ -262,6 +262,14 @@ GROUP BY c.class
 HAVING COUNT(c.student) >= 5;
 ```
 
+- [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/description)
+```sql
+SELECT f.user_id, COUNT(f.follower_id) AS followers_count
+FROM Followers f
+GROUP BY f.user_id
+ORDER BY f.user_id ASC;
+```
+
 - [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description)
 ```sql
 SELECT COALESCE((
@@ -274,15 +282,18 @@ SELECT COALESCE((
 ),NULL) AS num;
 ```
 
-- []()
+- [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)
 ```sql
-
+SELECT c.customer_id
+FROM Customer c
+GROUP BY c.customer_id 
+HAVING COUNT(DISTINCT c.product_key) = (
+    SELECT COUNT(p.product_key)
+    FROM Product p
+);
 ```
 
-- []()
-```sql
-
-```
+## Advanced Select and Joins
 
 - []()
 ```sql
