@@ -62,4 +62,8 @@
 # Sorting and Grouping
 - HAVING COUNT(xx) = (SELECT xx ..)
 
+# Advanced Select and Joins
+- UNION: Eliminates duplicate rows from the result set.
+- SUM (xx) OVER (ORDER BY yy) AS cumulative_xx
+
 
