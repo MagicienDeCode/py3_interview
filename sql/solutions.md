@@ -1,3 +1,5 @@
+# [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+
 # Solutions
 
 - [SELECT](#SELECT)
@@ -294,6 +296,165 @@ HAVING COUNT(DISTINCT c.product_key) = (
 ```
 
 ## Advanced Select and Joins
+
+- [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description)
+```sql
+SELECT e.employee_id , e.name, COUNT(e2.employee_id) AS reports_count, ROUND(AVG(e2.age)) AS average_age 
+FROM Employees e
+INNER JOIN Employees e2 ON e.employee_id = e2.reports_to
+GROUP BY e.employee_id
+ORDER BY e.employee_id;
+```
+
+- [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description)
+```sql
+SELECT e.employee_id, e.department_id
+FROM Employee e
+GROUP BY e.employee_id
+HAVING COUNT(e.department_id) = 1
+UNION
+SELECT e.employee_id, e.department_id
+FROM Employee e
+WHERE e.primary_flag = 'Y';
+```
+
+- [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description)
+```sql
+SELECT t.x, t.y, t.z,
+    CASE WHEN t.x+t.y > t.z AND t.x+t.z > t.y AND t.z+t.y > t.x THEN 'Yes' ELSE 'No' END AS triangle
+FROM Triangle t;
+```
+
+- [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description)
+```sql
+SELECT DISTINCT l1.num AS ConsecutiveNums
+FROM Logs l1 
+INNER JOIN Logs l2 ON l1.id = l2.id - 1 AND l1.num = l2.num
+INNER JOIN Logs l3 ON l2.id = l3.id - 1 AND l2.num = l3.num;
+```
+
+- [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description)
+```sql
+SELECT p.product_id, 10 AS price
+FROM Products p
+GROUP BY p.product_id
+HAVING MIN(p.change_date) > '2019-08-16'
+UNION
+SELECT p.product_id, p.new_price AS price
+FROM Products p
+WHERE (p.product_id, p.change_date) IN (
+    SELECT p.product_id, MAX(p.change_date)
+    FROM Products p
+    WHERE p.change_date <= '2019-08-16'
+    GROUP BY product_id
+);
+```
+
+- [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description)
+```sql
+SELECT t.person_name
+FROM (
+    SELECT 
+        q.person_name,
+        q.turn,
+        SUM(q.weight) OVER (ORDER BY q.turn) AS cumulative_weight
+    FROM Queue q
+) t
+WHERE t.cumulative_weight <= 1000
+ORDER BY t.turn DESC
+LIMIT 1;
+
+--Alice	1	250
+--Alex	2	600
+--John Cena	3	1000
+--Marie	4	1200
+--Bob	5	1375
+--Winston	6	1875
+```
+
+- [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description)
+```sql
+SELECT 'Low Salary' AS category, COUNT(*) AS accounts_count
+FROM Accounts a
+WHERE a.income < 20000
+UNION 
+SELECT 'Average Salary' AS category, COUNT(*) AS accounts_count
+FROM Accounts a
+WHERE a.income BETWEEN 20000 AND 50000
+UNION
+SELECT 'High Salary' AS category, COUNT(*) AS accounts_count
+FROM Accounts a
+WHERE a.income > 50000;
+
+-- This solution won't include category with 0 count
+SELECT CASE 
+        WHEN a.income < 20000 THEN 'Low Salary' 
+        WHEN a.income BETWEEN 20000 AND 50000 THEN 'Average Salary'
+        WHEN a.income > 50000 THEN 'High Salary'
+    END AS category, 
+    COUNT(a.account_id) AS accounts_count
+FROM Accounts a
+GROUP BY category;
+```
+
+## Subqueries
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+## Advanced String Functions / Regex / Clause
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
+
+- []()
+```sql
+
+```
 
 - []()
 ```sql
