@@ -212,9 +212,9 @@ GROUP BY month, t.country;
 SELECT ROUND(AVG(d.order_date = d.customer_pref_delivery_date),4)*100 as immediate_percentage
 FROM Delivery d
 WHERE (d.customer_id, d.order_date) IN(
-    SELECT d.customer_id, MIN(d.order_date) AS first
-    FROM Delivery d
-    GROUP BY d.customer_id
+    SELECT d2.customer_id, MIN(d2.order_date) AS first
+    FROM Delivery d2
+    GROUP BY d2.customer_id
 );
 ```
 
@@ -223,9 +223,9 @@ WHERE (d.customer_id, d.order_date) IN(
 SELECT ROUND(COUNT(a.player_id)/(SELECT COUNT(DISTINCT player_id) FROM Activity),2) AS fraction
 FROM Activity a
 WHERE (a.player_id, a.event_date - INTERVAL 1 DAY) IN (
-    SELECT a.player_id, MIN(a.event_date)
-    FROM Activity a
-    GROUP BY a.player_id
+    SELECT a2.player_id, MIN(a2.event_date)
+    FROM Activity a2
+    GROUP BY a2.player_id
 );
 ```
 
@@ -250,9 +250,9 @@ GROUP BY a.activity_date;
 SELECT s.product_id, s.year AS first_year, s.quantity, s.price
 FROM Sales s
 WHERE (s.product_id,s.year) IN (
-    SELECT s.product_id, MIN(s.year)
-    FROM Sales s
-    GROUP BY s.product_id
+    SELECT s2.product_id, MIN(s2.year)
+    FROM Sales s2
+    GROUP BY s2.product_id
 );
 ```
 
@@ -343,14 +343,14 @@ UNION
 SELECT p.product_id, p.new_price AS price
 FROM Products p
 WHERE (p.product_id, p.change_date) IN (
-    SELECT p.product_id, MAX(p.change_date)
-    FROM Products p
-    WHERE p.change_date <= '2019-08-16'
-    GROUP BY product_id
+    SELECT p2.product_id, MAX(p2.change_date)
+    FROM Products p2
+    WHERE p2.change_date <= '2019-08-16'
+    GROUP BY p2.product_id
 );
 ```
 
-- [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description)
+- Can Skip [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description)
 ```sql
 SELECT t.person_name
 FROM (
@@ -399,39 +399,107 @@ GROUP BY category;
 
 ## Subqueries
 
-- []()
+- [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description)
 ```sql
-
+SELECT e.employee_id
+FROM Employees e
+LEFT JOIN Employees m ON e.manager_id = m.employee_id
+WHERE m.employee_id IS NULL AND e.salary < 30000 AND e.manager_id IS NOT NULL
+ORDER BY e.employee_id;
 ```
 
-- []()
+- [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
 ```sql
-
+-- odd id to event id + 1
+-- event id to odd id - 1
+-- max id remain the same
+SELECT CASE
+    WHEN s.id = (SELECT MAX(id) FROM Seat) AND id%2 = 1 THEN id
+    WHEN id%2 = 1 THEN id + 1
+    ELSE id - 1
+    END AS id,
+    student
+FROM Seat s
+ORDER BY id;
 ```
 
-- []()
+- [1341. Movie Rating](https://leetcode.com/problems/movie-rating/description)
 ```sql
-
+(SELECT u.name AS results
+FROM Movies m
+INNER JOIN MovieRating mr ON m.movie_id = mr.movie_id
+INNER JOIN Users u ON u.user_id = mr.user_id
+GROUP BY mr.user_id
+ORDER BY COUNT(mr.rating) DESC, u.name
+LIMIT 1)
+UNION ALL
+(SELECT m.title AS results
+FROM Movies m
+INNER JOIN MovieRating mr ON m.movie_id = mr.movie_id
+INNER JOIN Users u ON u.user_id = mr.user_id
+WHERE mr.created_at BETWEEN '2020-02-01' AND '2020-02-29'
+GROUP BY mr.movie_id
+ORDER BY AVG(mr.rating) DESC, m.title
+LIMIT 1);
 ```
 
-- []()
+- can skip [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description)
 ```sql
-
+SELECT c.visited_on,
+    SUM(c.amount) OVER (ORDER BY c.visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) AS amount,
+    ROUND(SUM(c.amount) OVER (ORDER BY c.visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW)/7,2) AS average_amount 
+FROM (
+    SELECT c.visited_on, SUM(c.amount) AS amount
+    FROM Customer c
+    GROUP BY c.visited_ON
+) c
+LIMIT 6,20000;
 ```
 
-- []()
+- [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description)
 ```sql
-
+SELECT t.id, SUM(t.num) AS num
+FROM (
+    SELECT ra.requester_id AS id, COUNT(ra.accepter_id) AS num
+    FROM RequestAccepted ra
+    GROUP BY ra.requester_id
+    UNION ALL
+    SELECT ra.accepter_id AS id, COUNT(ra.requester_id) AS num
+    FROM RequestAccepted ra
+    GROUP BY ra.accepter_id
+) t
+GROUP BY t.id
+ORDER BY num DESC
+LIMIT 1;
 ```
 
-- []()
+- [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016/description)
 ```sql
-
+SELECT ROUND(SUM(i1.tiv_2016),2) AS tiv_2016
+FROM Insurance i1
+WHERE i1.pid IN(
+    SELECT i1.pid 
+    FROM Insurance i1
+    INNER JOIN Insurance i2 ON i1.tiv_2015 = i2.tiv_2015 AND i1.pid != i2.pid
+)
+AND i1.pid NOT IN (
+    SELECT i1.pid
+    FROM Insurance i1
+    INNER JOIN Insurance i2 ON i1.lat = i2.lat AND i1.lon = i2.lon
+    WHERE i1.pid != i2.pid
+);
 ```
 
-- []()
+- [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description)
 ```sql
-
+SELECT d.name AS 'Department', e1.name AS 'Employee',  e1.salary AS 'Salary' 
+FROM Employee e1
+INNER JOIN Department d ON e1.departmentId = d.id 
+WHERE (
+    SELECT COUNT(DISTINCT e2.salary)
+    FROM Employee e2
+    WHERE e2.salary > e1.salary AND e1.departmentId = e2.departmentId
+) < 3;  
 ```
 
 ## Advanced String Functions / Regex / Clause
