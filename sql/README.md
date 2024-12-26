@@ -66,4 +66,9 @@
 - UNION: Eliminates duplicate rows from the result set.
 - SUM (xx) OVER (ORDER BY yy) AS cumulative_xx
 
-
+# Subqueries
+- IS NULL / IS NOT NULL
+- xx CASE 'v1' THEN 0 WHEN 'v2' THEN 1 ELSE AS output
+- CASE WHEN xx = (SELECT xx FROM table) THEN yy WHEN 'v2' THEN id + 1 ELSE
+- UNION / UNION ALL
+- id IN / id NOT IN
