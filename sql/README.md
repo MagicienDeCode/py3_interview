@@ -72,3 +72,12 @@
 - CASE WHEN xx = (SELECT xx FROM table) THEN yy WHEN 'v2' THEN id + 1 ELSE
 - UNION / UNION ALL
 - id IN / id NOT IN
+
+# Advanced String Functions / Regex / Clause
+- CONCAT(a,b)
+- SUBSTRING(xx,1,1)
+- SUBSTRING(xx,2)
+- GROUP_CONCAT(DISTINCT xx ORDER BY yy)
+
+# Interview
+- 

@@ -120,6 +120,13 @@ FROM Employee emp
 LEFT JOIN Employee manager ON emp.managerId = manager.id
 GROUP BY manager.id
 HAVING COUNT(manager.id) >= 5;
+
+-- better solution
+SELECT m.name
+FROM Employee e
+INNER JOIN Employee m ON e.managerId = m.id
+GROUP BY e.managerId
+HAVING COUNT(e.managerId) >= 5;
 ```
 
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/)
@@ -504,37 +511,59 @@ WHERE (
 
 ## Advanced String Functions / Regex / Clause
 
-- []()
+- [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description)
 ```sql
-
+SELECT u.user_id, CONCAT(UPPER(SUBSTRING(u.name, 1, 1)), LOWER(SUBSTRING(u.name, 2))) AS name
+FROM Users u
+ORDER BY u.user_id;
 ```
 
-- []()
+- [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)
 ```sql
-
+SELECT p.*
+FROM Patients p
+WHERE p.conditions LIKE '% DIAB1%' OR p.conditions LIKE 'DIAB1%';
 ```
 
-- []()
+- [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description)
 ```sql
-
+DELETE p FROM Person p INNER JOIN Person p2 ON p.email = p2.email AND p.id > p2.id;
 ```
 
-- []()
+- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description)
 ```sql
-
+SELECT COALESCE(
+(
+    SELECT DISTINCT e.salary AS SecondHighestSalary
+    FROM Employee e
+    ORDER BY e.salary DESC
+    LIMIT 1 OFFSET 1
+),NULL)
+AS SecondHighestSalary;
 ```
 
-- []()
+- [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description)
 ```sql
-
+SELECT a.sell_date, COUNT(DISTINCT a.product) AS num_sold,
+    GROUP_CONCAT(DISTINCT a.product ORDER BY a.product) AS products
+FROM Activities a
+GROUP BY a.sell_date
+ORDER BY a.sell_date;
 ```
 
-- []()
+- [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description)
 ```sql
-
+SELECT p.product_name, SUM(o.unit) AS unit
+FROM Products p
+INNER JOIN Orders o ON p.product_id = o.product_id
+WHERE order_date BETWEEN '2020-02-01' AND '2020-02-29'
+GROUP BY p.product_id
+HAVING SUM(o.unit) >= 100;
 ```
 
-- []()
+- [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description)
 ```sql
-
+SELECT *
+FROM Users u
+WHERE u.mail REGEXP '^[A-Za-z][A-Za-z0-9_\.\-]*@leetcode(\\?com)?\\.com$';
 ```
