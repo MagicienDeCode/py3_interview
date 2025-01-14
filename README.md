@@ -116,9 +116,10 @@
 |56|[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/688.py)|Medium|[Youtube](https://www.youtube.com/watch?v=4AO78KP6dkU)|[Bilibili](https://www.bilibili.com/video/BV1Jm421M7it)|[Xigua](https://www.ixigua.com/i7368580707884466739)|
 
 - Bottom UP
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|63|[Bottom UP 1137](https://leetcode.com/problems/n-th-tribonacci-number/description) & [746](https://leetcode.com/problems/min-cost-climbing-stairs/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/tree/master/series/dijkstra_bfspq)|Easy|[Youtube](https://www.youtube.com/watch?v=Cf2C2VCJSig)|[Bilibili](https://www.bilibili.com/video/BV1yNceehE1z)
+|63|[Bottom UP 1137](https://leetcode.com/problems/n-th-tribonacci-number/description) & [746](https://leetcode.com/problems/min-cost-climbing-stairs/description)|[1137](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1137.py) & [746](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/746.py)|Easy|[Youtube](https://www.youtube.com/watch?v=Cf2C2VCJSig)|[Bilibili](https://www.bilibili.com/video/BV1yNceehE1z)
 
 
 ## Series
