@@ -2,21 +2,21 @@
 answer = "Answer"
 
 
-difficulty = "Easy"
+difficulty = "Medium"
 
-count = 63
+count = 64
 
-title = "Bottom UP"
+title = "198"
 
-title_link = ""
+title_link = "https://leetcode.com/problems/house-robber/description"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/tree/master/series/dijkstra_bfspq"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/198.py"
 
-youtubeid = "Cf2C2VCJSig"
+youtubeid = "48iNoKmpC98"
 
-biid = "BV1yNceehE1z"
+biid = "BV1Lgw3eXEWe"
 
 
 
