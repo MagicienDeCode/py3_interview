@@ -122,6 +122,11 @@
 |63|[Bottom UP 1137](https://leetcode.com/problems/n-th-tribonacci-number/description) & [746](https://leetcode.com/problems/min-cost-climbing-stairs/description)|[1137](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1137.py) & [746](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/746.py)|Easy|[Youtube](https://www.youtube.com/watch?v=Cf2C2VCJSig)|[Bilibili](https://www.bilibili.com/video/BV1yNceehE1z)
 |64|[198](https://leetcode.com/problems/house-robber/description) & [740](https://leetcode.com/problems/delete-and-earn/description)|[198](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/198.py) & [740](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/740.py)|Medium|[Youtube](https://www.youtube.com/watch?v=48iNoKmpC98)|[Bilibili](https://www.bilibili.com/video/BV1Lgw3eXEWe)
 
+- Matrix
+| # | Title |  Answer | Difficulty | Youtube | Bilibili |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|65|[DP Matrix - 1 (62,63,64)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/62_64_63.py)|Medium|[Youtube](https://www.youtube.com/watch?v=knjoempTr5g)|[Bilibili](https://www.bilibili.com/video/BV18kcfeVE3b)
+
 
 
 ## Series
