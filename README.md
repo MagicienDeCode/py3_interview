@@ -127,6 +127,7 @@
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |65|[DP Matrix - 1 (62,63,64)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/62_64_63.py)|Medium|[Youtube](https://www.youtube.com/watch?v=knjoempTr5g)|[Bilibili](https://www.bilibili.com/video/BV18kcfeVE3b)
+|66|[DP Matrix - 2 (120,931,221)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/120_931_221.py)|Medium|[Youtube](https://www.youtube.com/watch?v=TJybPyLCf8Q)|[Bilibili](https://www.bilibili.com/video/BV14qwKefEX7)
 
 
 
