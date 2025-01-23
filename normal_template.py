@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 66
+count = 67
 
-title = "DP Matrix - 2 (120,931,221)"
+title = "5"
 
-title_link = "https://leetcode.com/studyplan/dynamic-programming/"
+title_link = "https://leetcode.com/problems/longest-palindromic-subsequence/description"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/120_931_221.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/5_516.py"
 
-youtubeid = "TJybPyLCf8Q"
+youtubeid = "tKlN4lPYHpw"
 
-biid = "BV14qwKefEX7"
+biid = "BV1ZYfEYuECq"
 
 
 
