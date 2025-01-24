@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 67
+count = 68
 
-title = "5"
+title = "139"
 
-title_link = "https://leetcode.com/problems/longest-palindromic-subsequence/description"
+title_link = "https://leetcode.com/problems/word-break/description"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/5_516.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/139.py"
 
-youtubeid = "tKlN4lPYHpw"
+youtubeid = "FxV3ydunk6o"
 
-biid = "BV1ZYfEYuECq"
+biid = "BV1pSf9YLEgv"
 
 
 

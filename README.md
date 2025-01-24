@@ -130,12 +130,12 @@
 |66|[DP Matrix - 2 (120,931,221)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/120_931_221.py)|Medium|[Youtube](https://www.youtube.com/watch?v=TJybPyLCf8Q)|[Bilibili](https://www.bilibili.com/video/BV14qwKefEX7)
 
 
-- Substring
+- On Strings
 
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |67|[5](https://leetcode.com/problems/longest-palindromic-substring/description) & [516](https://leetcode.com/problems/longest-palindromic-subsequence)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/5_516.py)|Medium|[Youtube](https://www.youtube.com/watch?v=tKlN4lPYHpw)|[Bilibili](https://www.bilibili.com/video/BV1ZYfEYuECq)
-
+|68|[139](https://leetcode.com/problems/word-break/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/139.py)|Medium|[Youtube](https://www.youtube.com/watch?v=FxV3ydunk6o)|[Bilibili](https://www.bilibili.com/video/BV1pSf9YLEgv)
 
 
 ## Series
