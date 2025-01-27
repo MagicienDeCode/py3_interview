@@ -138,6 +138,13 @@
 |68|[139](https://leetcode.com/problems/word-break/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/139.py)|Medium|[Youtube](https://www.youtube.com/watch?v=FxV3ydunk6o)|[Bilibili](https://www.bilibili.com/video/BV1pSf9YLEgv)
 
 
+- Longest Increasing Subsequence
+
+| # | Title |  Answer | Difficulty | Youtube | Bilibili |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|69|LIS [300](https://leetcode.com/problems/longest-increasing-subsequence/description) & [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/300_673.py)|Medium|[Youtube](https://www.youtube.com/watch?v=Ev5OJ98l8IY)|[Bilibili](https://www.bilibili.com/video/BV1JSfQYqEZY)
+
+
 ## Series
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

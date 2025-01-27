@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 68
+count = 69
 
-title = "139"
+title = "LIS"
 
-title_link = "https://leetcode.com/problems/word-break/description"
+title_link = "https://leetcode.com/problems/longest-increasing-subsequence/description"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/139.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/300_673.py"
 
-youtubeid = "FxV3ydunk6o"
+youtubeid = "Ev5OJ98l8IY"
 
-biid = "BV1pSf9YLEgv"
+biid = "BV1JSfQYqEZY"
 
 
 
