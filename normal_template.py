@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 69
+count = 70
 
-title = "LIS"
+title = "LAS"
 
-title_link = "https://leetcode.com/problems/longest-increasing-subsequence/description"
+title_link = "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/300_673.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py"
 
-youtubeid = "Ev5OJ98l8IY"
+youtubeid = "EHN8ELKyF10"
 
-biid = "BV1JSfQYqEZY"
+biid = "BV1eHNeesEFq"
 
 
 

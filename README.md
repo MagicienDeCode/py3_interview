@@ -1,8 +1,7 @@
 # Python3 Study
-
-- [Subscribe 代码魔术师magiciendecode on Youtube](https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1)
-- [Please follow me at bilibili](https://space.bilibili.com/520811931)
-- [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/)
+* [Subscribe 代码魔术师magiciendecode on Youtube](https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1)
+* [Please follow me at bilibili](https://space.bilibili.com/520811931)
+* [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/)
 
 ## Index
 
@@ -20,7 +19,6 @@
 |10|[36. Valid Sudoku 0010](https://leetcode.com/problems/valid-sudoku/description/)|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/36valid_sudoku_answer.py)|Medium|[Youtube](https://www.youtube.com/watch?v=eIzb4N1SYYE)|[Bilibili](https://www.bilibili.com/video/BV1Bx4y1y7fX)|[Xigua](https://www.ixigua.com/i7338557475588669964)|
 |11|[128. Longest Consecutive 0011](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/list/128longest_consecutive_sequence_answer.py)|Medium|[Youtube](https://www.youtube.com/watch?v=IwSGuK82hkg)|[Bilibili](https://www.bilibili.com/video/BV1gC411x7Wg)|[Xigua](https://www.ixigua.com/i7338930904477696531)|
 |12|Python3 Review1 0012|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1.py)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/review1_answer.py)|--|[Youtube](https://www.youtube.com/watch?v=uhtb_AChMac)|[Bilibili](https://www.bilibili.com/video/BV1RW421A7c5)|[Xigua](https://www.ixigua.com/i7339609071881814579)|
-
 
 ## [Binary Search](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/BS_ALL_IN_ONE.pdf)
 
@@ -40,6 +38,7 @@
 |20|[668. Kth Smallest 0020](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/668.py)|Medium|[Youtube](https://www.youtube.com/watch?v=5DYgSTXSNK0)|[Bilibili](https://www.bilibili.com/video/BV1sx42127tU)|[Xigua](https://www.ixigua.com/i7343389869911540224)|
 
 ## Stack
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |21|python3 Stack 0021|[Todo File](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/stack.py) / [Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/medium_grammar/stack/stack_answer.py)|Easy|[Youtube](https://www.youtube.com/watch?v=iao5oGnNNH4)|[Bilibili](https://www.bilibili.com/video/BV1bF4m1V7vP)|[Xigua](https://www.ixigua.com/i7344138174903353908)|
@@ -110,42 +109,42 @@
 |54|[97 dp dfs](https://leetcode.com/problems/interleaving-string/)|[Answer](https://leetcode.com/problems/interleaving-string/solutions/5127519/follow-up-questions-solved-3-solutions-recursive-or-iterative-python3/)|Medium+|[Youtube](https://www.youtube.com/watch?v=TzqIU0U59pY)|[Bilibili](https://www.bilibili.com/video/BV1EC411j72D)|[Xigua](https://www.ixigua.com/i7366412150933291520)|
 
 ## Dynamic Programming
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |55|[509_fibonacci](https://leetcode.com/problems/fibonacci-number/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/509.py)|Easy|[Youtube](https://www.youtube.com/watch?v=58imzbmBagY)|[Bilibili](https://www.bilibili.com/video/BV1qJ4m1K7nQ)|[Xigua](https://www.ixigua.com/i7367119138412495400)|
 |56|[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/688.py)|Medium|[Youtube](https://www.youtube.com/watch?v=4AO78KP6dkU)|[Bilibili](https://www.bilibili.com/video/BV1Jm421M7it)|[Xigua](https://www.ixigua.com/i7368580707884466739)|
 
-- Fibonacci Style
+* Fibonacci Style
 
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |63|[Bottom UP 1137](https://leetcode.com/problems/n-th-tribonacci-number/description) & [746](https://leetcode.com/problems/min-cost-climbing-stairs/description)|[1137](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1137.py) & [746](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/746.py)|Easy|[Youtube](https://www.youtube.com/watch?v=Cf2C2VCJSig)|[Bilibili](https://www.bilibili.com/video/BV1yNceehE1z)
 |64|[198](https://leetcode.com/problems/house-robber/description) & [740](https://leetcode.com/problems/delete-and-earn/description)|[198](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/198.py) & [740](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/740.py)|Medium|[Youtube](https://www.youtube.com/watch?v=48iNoKmpC98)|[Bilibili](https://www.bilibili.com/video/BV1Lgw3eXEWe)
 
-- Matrix
+* Matrix
 
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|65|[DP Matrix - 1 (62,63,64)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/62_64_63.py)|Medium|[Youtube](https://www.youtube.com/watch?v=knjoempTr5g)|[Bilibili](https://www.bilibili.com/video/BV18kcfeVE3b)
-|66|[DP Matrix - 2 (120,931,221)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/120_931_221.py)|Medium|[Youtube](https://www.youtube.com/watch?v=TJybPyLCf8Q)|[Bilibili](https://www.bilibili.com/video/BV14qwKefEX7)
+|65|[DP Matrix - 1 (62, 63, 64)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/62_64_63.py)|Medium|[Youtube](https://www.youtube.com/watch?v=knjoempTr5g)|[Bilibili](https://www.bilibili.com/video/BV18kcfeVE3b)
+|66|[DP Matrix - 2 (120, 931, 221)](https://leetcode.com/studyplan/dynamic-programming/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/120_931_221.py)|Medium|[Youtube](https://www.youtube.com/watch?v=TJybPyLCf8Q)|[Bilibili](https://www.bilibili.com/video/BV14qwKefEX7)
 
-
-- On Strings
+* On Strings
 
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |67|[5](https://leetcode.com/problems/longest-palindromic-substring/description) & [516](https://leetcode.com/problems/longest-palindromic-subsequence)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/5_516.py)|Medium|[Youtube](https://www.youtube.com/watch?v=tKlN4lPYHpw)|[Bilibili](https://www.bilibili.com/video/BV1ZYfEYuECq)
 |68|[139](https://leetcode.com/problems/word-break/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/139.py)|Medium|[Youtube](https://www.youtube.com/watch?v=FxV3ydunk6o)|[Bilibili](https://www.bilibili.com/video/BV1pSf9YLEgv)
 
-
-- Longest Increasing Subsequence
+* Longest Increasing Subsequence
 
 | # | Title |  Answer | Difficulty | Youtube | Bilibili |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |69|LIS [300](https://leetcode.com/problems/longest-increasing-subsequence/description) & [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/300_673.py)|Medium|[Youtube](https://www.youtube.com/watch?v=Ev5OJ98l8IY)|[Bilibili](https://www.bilibili.com/video/BV1JSfQYqEZY)
-
+|70|LAS [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description) & [1027](https://leetcode.com/problems/longest-arithmetic-subsequence)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py)|Medium|[Youtube](https://www.youtube.com/watch?v=EHN8ELKyF10)|[Bilibili](https://www.bilibili.com/video/BV1eHNeesEFq)
 
 ## Series
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |57|Path Sum  [112](https://leetcode.com/problems/path-sum/) & [113](https://leetcode.com/problems/path-sum-ii/) & [437](https://leetcode.com/problems/path-sum-iii/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/series/path_sum)|Medium|[Youtube](https://www.youtube.com/watch?v=B7WRhtMhye8)|[Bilibili](https://www.bilibili.com/video/BV1Ni421U7zR)|[Xigua](https://www.ixigua.com/i7377480762032914982)|
@@ -153,8 +152,8 @@
 |61|[唠叨+排序](https://leetcode.com/problems/sort-an-array/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/tree/master/series/sort)|Medium|[Youtube](https://www.youtube.com/watch?v=HRKaTLB4XUA)|[Bilibili](https://www.bilibili.com/video/BV1Tw4m1k7z4)|[Xigua](https://www.ixigua.com/i7395688145515184649)|
 |62|Dijkstra BFSPQ [743](https://leetcode.com/problems/network-delay-time/) & [1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) & [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) |[Answer](https://github.com/MagicienDeCode/py3_interview/tree/master/series/dijkstra_bfspq)|Medium|[Youtube](https://www.youtube.com/watch?v=k3TU95ArkRY)|[Bilibili](https://www.bilibili.com/video/BV1A8vmeHEEh)|[Xigua](https://www.ixigua.com/i7397526898307236379)|
 
-
 ## Priority Queue (heapq)
+
 | # | Title |  Answer | Difficulty | Youtube | Bilibili | Ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |19|[378. Kth Smallest 0019](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/basic_grammar/binary_search/378.py)|Medium|[Youtube](https://www.youtube.com/watch?v=ah2QIC6DkgA)|[Bilibili](https://www.bilibili.com/video/BV1Gt421t7X6)|[Xigua](https://www.ixigua.com/i7343038976959840803)|
