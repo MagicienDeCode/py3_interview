@@ -142,6 +142,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |69|LIS [300](https://leetcode.com/problems/longest-increasing-subsequence/description) & [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/300_673.py)|Medium|[Youtube](https://www.youtube.com/watch?v=Ev5OJ98l8IY)|[Bilibili](https://www.bilibili.com/video/BV1JSfQYqEZY)
 |70|LAS [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description) & [1027](https://leetcode.com/problems/longest-arithmetic-subsequence)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py)|Medium|[Youtube](https://www.youtube.com/watch?v=EHN8ELKyF10)|[Bilibili](https://www.bilibili.com/video/BV1eHNeesEFq)
+|71|LCS [1143](https://leetcode.com/problems/longest-common-subsequence/description) & [1035](https://leetcode.com/problems/uncrossed-lines)|[Answer](https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1143_1035.py)|Medium|[Youtube](https://www.youtube.com/watch?v=mWADLpkVeVY)|[Bilibili](https://www.bilibili.com/video/BV1zrNre9ESg)
 
 ## Series
 

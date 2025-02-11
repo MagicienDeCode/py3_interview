@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 70
+count = 71
 
-title = "LAS"
+title = "LCS"
 
-title_link = "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description"
+title_link = "https://leetcode.com/problems/longest-common-subsequence/description"
 
 
 
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py"
 
-youtubeid = "EHN8ELKyF10"
+youtubeid = "mWADLpkVeVY"
 
-biid = "BV1eHNeesEFq"
+biid = "BV1zrNre9ESg"
 
 
 
