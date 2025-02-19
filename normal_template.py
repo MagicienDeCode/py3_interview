@@ -6,17 +6,17 @@ difficulty = "Medium"
 
 count = 71
 
-title = "LCS"
+title = "Best Time to Buy and Sell Stock"
 
-title_link = "https://leetcode.com/problems/longest-common-subsequence/description"
+title_link = "https://leetcode.com/problemset/?search=Best+time+to+buy&page=1"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/best_time_to_but_and_sell_stock"
 
-youtubeid = "mWADLpkVeVY"
+youtubeid = "oSZe10uX-S8"
 
-biid = "BV1zrNre9ESg"
+biid = "BV1qbAEe2EXu"
 
 
 
