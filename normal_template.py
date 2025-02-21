@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 71
+count = 72
 
-title = "Best Time to Buy and Sell Stock"
+title = "Coin Change"
 
-title_link = "https://leetcode.com/problemset/?search=Best+time+to+buy&page=1"
+title_link = "https://leetcode.com/problems/coin-change/description/"
 
 
 
 answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/best_time_to_but_and_sell_stock"
 
-youtubeid = "oSZe10uX-S8"
+youtubeid = "_Yt5oT84cJ0"
 
-biid = "BV1qbAEe2EXu"
+biid = "BV1MmPweWEPS"
 
 
 
