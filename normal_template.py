@@ -4,19 +4,19 @@ answer = "Answer"
 
 difficulty = "Medium"
 
-count = 71
+count = 72
 
-title = "LCS"
+title = "Coin Change"
 
-title_link = "https://leetcode.com/problems/longest-common-subsequence/description"
+title_link = "https://leetcode.com/problems/coin-change/description/"
 
 
 
-answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/advanced_grammar/dynamic_programming/1218_1027.py"
+answer_link = "https://github.com/MagicienDeCode/py3_interview/blob/master/series/best_time_to_but_and_sell_stock"
 
-youtubeid = "mWADLpkVeVY"
+youtubeid = "_Yt5oT84cJ0"
 
-biid = "BV1zrNre9ESg"
+biid = "BV1MmPweWEPS"
 
 
 
