@@ -47,11 +47,11 @@ print(dic)
 
 print("=======================================")
 # declare my_list
-my_list = [1, 1, 9, 9, 9, 9, 2, 4, 1, 0, 1, 1, 0, 2]
+my_list = [1, 1, 9, 9, 9, 9, 2, 5, 1, 0, 1, 6, 0, 1]
 
-# add new values 5,7 in list using append()
+# add new values 5,0 in list using append()
 my_list.append(5)
-my_list.append(7)
+my_list.append(0)
 print(my_list)
 # declare dictionaries for values at odd and even indices
 dic_odd = {}
